@@ -3,7 +3,7 @@ import { RouterProvider, createBrowserRouter } from "react-router-dom";
 import HomePage from "./components/HomePage";
 import Friends from "./components/Friends";
 import Profile from "./components/Profile";
-import Events from "./components/Events";
+import Events from "./components/EventsPage";
 import Layout from "./components/Layout"; // Layout wraps TopNavbar & BottomNavbar
 
 const router = createBrowserRouter([
